@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638826829753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C7293D44",
+    "lastKnownWriteTime" : 1639812170,
+    "last_content_update" : 1639812170316,
+    "path" : "C:/Users/CES-UVG/workspace svn-R/Proyecto_2_Product_develop/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "155,11",
+        "scrollLine" : "144"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
